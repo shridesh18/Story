@@ -1,1 +1,1 @@
-new branch codeing.
+Learning branching and merging using git bash.
