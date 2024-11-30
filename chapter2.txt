@@ -1,1 +1,1 @@
-second chapter is a go.
+learing branching and merging part 2.
